@@ -17,20 +17,21 @@ Urban cities had much higher number of drivers than suburban cities. Rural citie
 
 ![Figure 4](https://github.com/beata-malachowska/PyBer_Analysis/blob/main/analysis/Fig4.png)
 
+More than half (62.7%) of earned fare by the company come from urban cities. 
 
 ![Figure 5](https://github.com/beata-malachowska/PyBer_Analysis/blob/main/analysis/Fig5.png)
 
-More than half of earned fare by the company comes from urban cities. 
+Most app-asosociated ride are perforemd in urban cities (68.4%)
 
 ![Figure 6](https://github.com/beata-malachowska/PyBer_Analysis/blob/main/analysis/Fig6.png)
 
-Also, most rides come from urban cities (68.4%)
+Majority of drivers using app are from urban cities (80.9%).
 
 ![Figure 7](https://github.com/beata-malachowska/PyBer_Analysis/blob/main/analysis/Fig7.png)
 
+Line plot showing Fare in each city type was created for first quater of 2019. Interestingly, there is a clear increase in fares in all city types at the end of February and probable one at the beggining of April. There rest of the quater each city type seems to behave indepedently. 
 
-
-
+![Figure 8](https://github.com/beata-malachowska/PyBer_Analysis/blob/main/analysis/Pyber_fare_summary.png)
 
 
 ## Summary
