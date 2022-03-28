@@ -1,5 +1,5 @@
 # PyBer_Analysis
-## Analysis Over view
+## Analysis Overview
 Data analyis was performed on data from a ride-sharing app company PyBer in order to establish the differences between location type (urban, suburban and rural) and Fare ($USD). 
 ## Results
 Urban cities are characerized by greater number of total riders and drivers but smaller average fare what was shown by bubble plot.
